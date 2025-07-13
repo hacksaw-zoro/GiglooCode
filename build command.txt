@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --hidden-import=_tkinter --add-data "C:\Users\arulr\AppData\Local\Programs\Python\Python312\tcl;tcl" --add-data "C:\Users\arulr\AppData\Local\Programs\Python\Python312\tcl\tk8.6;tk" armorgui.py
