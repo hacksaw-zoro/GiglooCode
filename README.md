@@ -1,2 +1,0 @@
-# GiglooCode
-Gpu Switcher application
